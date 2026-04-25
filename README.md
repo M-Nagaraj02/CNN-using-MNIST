@@ -61,15 +61,33 @@ The CNN model typically includes:
 
 ---
 
-## 📊 Results
+## 📊 Results:
 
 - The model achieves good accuracy on test data.
 - Suitable for basic handwritten digit recognition tasks.
 
 ---
 
-## ▶️ How to Run
+## ▶️ Visualizaation:
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/M-Nagaraj02/<your-repo-name>.git
+1. Accuracy Visualization
+
+<img width="1389" height="495" alt="image" src="https://github.com/user-attachments/assets/a8e712ca-7058-4296-8055-829114ba93ca" />
+
+2. Confusion Matrix:
+
+<img width="658" height="547" alt="image" src="https://github.com/user-attachments/assets/8d922f56-a027-4128-9e0a-727b40f4fc32" />
+
+3. Sample Predictions:
+
+<img width="990" height="763" alt="image" src="https://github.com/user-attachments/assets/e950162c-8b92-4488-acba-c567757f0f94" />
+
+4. # Multipule Value In One Frame :
+
+<img width="1590" height="985" alt="image" src="https://github.com/user-attachments/assets/4da88abb-7c0a-4363-bb20-8037ed11f8ec" />
+
+👨‍💻 Author:
+
+**Nagaraj M**
+
+GitHub: https://github.com/M-Nagaraj02
