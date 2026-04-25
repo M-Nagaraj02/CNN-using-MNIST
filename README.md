@@ -86,7 +86,7 @@ The CNN model typically includes:
 
 <img width="1590" height="985" alt="image" src="https://github.com/user-attachments/assets/4da88abb-7c0a-4363-bb20-8037ed11f8ec" />
 
-👨‍💻 Author:
+## 👨‍💻 Author:
 
 **Nagaraj M**
 
